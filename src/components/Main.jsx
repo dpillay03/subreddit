@@ -7,6 +7,7 @@ export default class Main extends React.Component {
         super(props);
         this.state = {
             topics: [],
+            count: 0
         }
         this.performSearch = this.performSearch.bind(this);
     }
@@ -30,7 +31,7 @@ export default class Main extends React.Component {
         return (
             <div>
                 <Search search={this.performSearch}/>
-                <Results topics={this.state.topics}/>
+                <Results className="searchResults" topics={this.state.topics}/>
             </div>)
     }
 }
