@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/subreddit/static/css/main.77aae621.chunk.css",
+    "main.js": "/subreddit/static/js/main.3a6d8884.chunk.js",
+    "main.js.map": "/subreddit/static/js/main.3a6d8884.chunk.js.map",
+    "runtime-main.js": "/subreddit/static/js/runtime-main.b704ab13.js",
+    "runtime-main.js.map": "/subreddit/static/js/runtime-main.b704ab13.js.map",
+    "static/js/2.fa2f6f69.chunk.js": "/subreddit/static/js/2.fa2f6f69.chunk.js",
+    "static/js/2.fa2f6f69.chunk.js.map": "/subreddit/static/js/2.fa2f6f69.chunk.js.map",
+    "index.html": "/subreddit/index.html",
+    "precache-manifest.3c503ca5744f5ddb16ee97e29a3017fb.js": "/subreddit/precache-manifest.3c503ca5744f5ddb16ee97e29a3017fb.js",
+    "service-worker.js": "/subreddit/service-worker.js",
+    "static/css/main.77aae621.chunk.css.map": "/subreddit/static/css/main.77aae621.chunk.css.map",
+    "static/js/2.fa2f6f69.chunk.js.LICENSE.txt": "/subreddit/static/js/2.fa2f6f69.chunk.js.LICENSE.txt",
+    "static/media/reddit.webp": "/subreddit/static/media/reddit.2f34ee0b.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b704ab13.js",
+    "static/js/2.fa2f6f69.chunk.js",
+    "static/css/main.77aae621.chunk.css",
+    "static/js/main.3a6d8884.chunk.js"
+  ]
+}
