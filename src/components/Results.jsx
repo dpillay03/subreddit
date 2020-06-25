@@ -9,8 +9,8 @@ export default class Results extends React.Component {
 
     render() {
         return (
-            <div>
-                <p>Results: {this.props.topics.length}</p>
+            <div className="resultsDiv">
+                <p id="results">Results: {this.props.topics.length}</p>
                 <ul>{this.results()}</ul>
             </div>
         )
